@@ -1,0 +1,28 @@
+{
+  "name": "@wonmor/tokens",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Design tokens (CSS custom properties and JSON) used by wonmor.io. Not yet published to npm.",
+  "license": "MIT",
+  "homepage": "https://wonmor.io",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wonmortech/design-system.git"
+  },
+  "style": "tokens/tokens.css",
+  "exports": {
+    "./tokens.css": "./tokens/tokens.css",
+    "./tokens.json": "./tokens/tokens.json",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "tokens/",
+    "LICENSE",
+    "README.md"
+  ],
+  "keywords": [
+    "design-tokens",
+    "css-custom-properties",
+    "wonmor"
+  ]
+}
