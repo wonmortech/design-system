@@ -1,5 +1,7 @@
 # design-system
 
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/wonmortech/design-system/badge)](https://scorecard.dev/viewer/?uri=github.com/wonmortech/design-system)
+
 Design tokens for [wonmor.io](https://wonmor.io), packaged as `@wonmor/tokens`.
 
 | Path | What |
